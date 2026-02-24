@@ -1,5 +1,5 @@
 def main():
-    salida = "estoy dentro de github"
+    return "estoy dentro de github"
 
 
 # Punto de entrada del programa
